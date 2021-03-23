@@ -8,21 +8,30 @@ export class Hello {
 }
 
 
-export class Level {
+export class LevelNames {
     level1: string;
     level2: string;
     level3: string;
-    level4: string;
-    level5: string;
 
-}
+    constructor(one: string, two: string, three: string,) {
+        this.level1 = one;
+        this.level2 = two;
+        this.level3 = three;
+    };
+};
+export const lvlNames = new LevelNames("1. What will you do? Remember, exams on Monday and today is Friday!",
+    "2. You called to school library, unfortunately they have not other book.What will u do next?",
+    "3.Ok, you do not find it via the Internet, but found it in one shop which located so far from you home.What will u do?")
 
-interface ILevel {
+
+
+
+
+export interface ILevel {
     levelOne(): string;
     levelTwo(): string;
     levelThree(): string;
-    levelFour(): string;
-    levelFive(): string;
+
 }
 
 export class LevelOne {
