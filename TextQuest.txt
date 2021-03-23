@@ -1,40 +1,40 @@
-1. You are in you room and 
-need to study for exams, but the main textbook is lost! 
-What will you do? Remember, exams on Monday and today is Friday!
+You are in you room and 
+need to study for exams which will be on Monday, but the main textbook is lost! 
+1. What will you do? Remember, exams on Monday and today is Friday!
 
-a. Buy it again as fast as possible
-b. Try to find it as fast as possible
-c. Forget about it, weekends is coming! 
+a. Buy it again as fast as possible (3 points)
+b. Try to find it as fast as possible (2 points)
+c. Forget about it, weekends is coming! (1 point)
 
 
 2.  How and when will you buy it?
 
-a. Order in the Internet now
-b. Call to school library now and try to get one more 
-c. Search in the flea markets on Sunday
+a. Order in the Internet now (2 points)
+b. Call to school library now and try to get one more (3 points)
+c. Search in the flea markets on Sunday (0 point)
 
 
 3. You called to school library, unfortunately they have not other book
 What will you do next?
 
-a. Call to all book shops!
-b. Check all Internet sites
-c. Will sleep.It is Friday evening!
+a. Call to all book shops!(2 points)
+b. Check all Internet sites (3 points)
+c. Will sleep.It is Friday evening! (O points)
 
 
 4. Time to check it and order via the Internet.
 
-a. Check in all sites 
-b. Check only free download version
-c. I'll decide later, I am reluctant now
+a. Check in all sites (3 points)
+b. Check only free download version (2 points)
+c. I'll decide later, I am reluctant now (0 points)
 
 
 5. Ok, you do not find it via the Internet, but find it in one shop which located so far from you home.
 What will you do?
 
-a. Ride by taxi now! I must to catch it until the shop will close.
-b. Ride by bus, probably will be in time
-c. Ok, not now! will see on Sunday evening
+a. Ride by taxi now! I must to catch it until the shop will close. (3 points)
+b. Ride by bus, probably will be in time (2 points)
+c. Ok, not now! will see on Sunday evening  (0 points)
 
 
 
