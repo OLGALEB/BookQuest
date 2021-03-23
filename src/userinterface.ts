@@ -7,7 +7,7 @@ export function firstLevelQuestion(){
    return console.log(lvlNames.level1);
 };
 let userAnswer1 = userInput ("Please enter your сhoice a-c")
-export function firstLevelOptions(){
+export function userChoiceFirst(){
 
     
     return userAnswer1 + 
