@@ -1,9 +1,6 @@
 const userInput = require('prompt-sync')(); 
 import { userSelect1, userSelect2, userSelect3, lvlNames}  from "./levels";
 
-/* export let firstLevelOption: number = 1;
-export let secondLevelOption: number = 1;
-export let thirdLevelOption: number = 1; */
 export let userGameProgress:number = 0;
 
 export function firstLevelQuestion(){
