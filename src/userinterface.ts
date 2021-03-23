@@ -18,14 +18,3 @@ export function firstLevelOptions(){
     ${userSelect1 .option2}
     ${userSelect1 .option3}
     
-}
-
-    while ( firstLevelOptions > 3|| firstLevelOptions  < 1) {
-        firstLevelOptions = userInput("Incorrect number selection!")};
-
-    if(firstLevelOption == 1){
-        progress +=3
-    }else if(firstLevelOption == 2){
-        progress +=5
-    };
-};
