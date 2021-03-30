@@ -3,7 +3,7 @@ const helloUser = new Hello;
 console.log (helloUser.a)
 
 import {totalScore} from "./scene"
-import {firstLevelQuestion,firstUserChoice,secondLevelQuestion,secondUserChoice,thirdLevelQuestion,thirdUserChoice} from "./userinterface";
+import {firstLevelQuestion,secondLevelQuestion,thirdUserChoice,firstUserChoice,secondUserChoice,thirdLevelQuestion} from "./userinterface";
 
 function Game(){
     firstLevelQuestion();
