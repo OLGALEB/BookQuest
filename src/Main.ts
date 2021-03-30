@@ -15,8 +15,3 @@ function Game(){
     totalScore();
 };
 Game();
-
-
-
-
-
