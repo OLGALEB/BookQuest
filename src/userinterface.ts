@@ -10,20 +10,18 @@ export function firstLevelQuestion() {
    return console.log(lvlNames.level1);
 };
 
-
-
-
-export function firstUserChoice() {
+export function firstUserChoice() {//прогресс от 1й сцены
    userInput1 = userInput(`
+   Make your choice - select 1,2 or 3
    ${userSelect1.option1}
    ${userSelect1.option2}
    ${userSelect1.option3}
-   
-   Make your choice - select 1,2 or 3`);
+  `);
 
 }
 
-while (userInput1 > 3 || userInput1 < 1) {//прогресс от 1й сцены
+
+while (userInput1 > 3 || userInput1 < 1) {
    userInput1 = userInput("Incorrect number! Choose 1-3")
 };
 
@@ -44,11 +42,11 @@ export function secondLevelQuestion() {
 
 export function secondUserChoice() {//прогресс от 2й сцены
    userInput1 = userInput(`
+   Make your choice - select 1,2 or 3
    ${userSelect2.option1}
    ${userSelect2.option2}
    ${userSelect2.option3}
-   
-   Make your choice - select 1,2 or 3`);
+  `);
 
 }
 
@@ -72,11 +70,11 @@ export function thirdLevelQuestion() {
 
 export function thirdUserChoice() { //прогресс от 3й сцены
    userInput1 = userInput(`
+   Make your choice - select 1,2 or 3
    ${userSelect3.option1}
    ${userSelect3.option2}
    ${userSelect3.option3}
-   
-   Make your choice - select 1,2 or 3`);
+  `);
 
 }
 

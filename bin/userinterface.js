@@ -13,10 +13,10 @@ function firstLevelQuestion() {
 exports.firstLevelQuestion = firstLevelQuestion;
 ;
 function firstUserChoice() {
-    exports.userInput1 = userInput("\n   " + levels_1.userSelect1.option1 + "\n   " + levels_1.userSelect1.option2 + "\n   " + levels_1.userSelect1.option3 + "\n   \n   Make your choice - select 1,2 or 3");
+    exports.userInput1 = userInput("\n   Make your choice - select 1,2 or 3\n   " + levels_1.userSelect1.option1 + "\n   " + levels_1.userSelect1.option2 + "\n   " + levels_1.userSelect1.option3 + "\n  ");
 }
 exports.firstUserChoice = firstUserChoice;
-while (exports.userInput1 > 3 || exports.userInput1 < 1) { //прогресс от 1й сцены
+while (exports.userInput1 > 3 || exports.userInput1 < 1) {
     exports.userInput1 = userInput("Incorrect number! Choose 1-3");
 }
 ;
@@ -36,7 +36,7 @@ function secondLevelQuestion() {
 exports.secondLevelQuestion = secondLevelQuestion;
 ;
 function secondUserChoice() {
-    exports.userInput1 = userInput("\n   " + levels_1.userSelect2.option1 + "\n   " + levels_1.userSelect2.option2 + "\n   " + levels_1.userSelect2.option3 + "\n   \n   Make your choice - select 1,2 or 3");
+    exports.userInput1 = userInput("\n   Make your choice - select 1,2 or 3\n   " + levels_1.userSelect2.option1 + "\n   " + levels_1.userSelect2.option2 + "\n   " + levels_1.userSelect2.option3 + "\n  ");
 }
 exports.secondUserChoice = secondUserChoice;
 while (exports.userInput1 > 3 || exports.userInput1 < 1) {
@@ -59,7 +59,7 @@ function thirdLevelQuestion() {
 exports.thirdLevelQuestion = thirdLevelQuestion;
 ;
 function thirdUserChoice() {
-    exports.userInput1 = userInput("\n   " + levels_1.userSelect3.option1 + "\n   " + levels_1.userSelect3.option2 + "\n   " + levels_1.userSelect3.option3 + "\n   \n   Make your choice - select 1,2 or 3");
+    exports.userInput1 = userInput("\n   Make your choice - select 1,2 or 3\n   " + levels_1.userSelect3.option1 + "\n   " + levels_1.userSelect3.option2 + "\n   " + levels_1.userSelect3.option3 + "\n  ");
 }
 exports.thirdUserChoice = thirdUserChoice;
 while (exports.userInput1 > 3 || exports.userInput1 < 1) {
