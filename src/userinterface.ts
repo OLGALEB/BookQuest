@@ -38,6 +38,9 @@ if (userInput1 == 1) {
 
 
 
+export function secondLevelQuestion() {
+   return console.log(lvlNames.level2);
+};
 
 export function secondUserChoice() {//прогресс от 2й сцены
    userInput1 = userInput(`
@@ -63,6 +66,9 @@ if (userInput1 == 1) {
 
 
 
+export function thirdLevelQuestion() {
+   return console.log(lvlNames.level3);
+};
 
 export function thirdUserChoice() { //прогресс от 3й сцены
    userInput1 = userInput(`
